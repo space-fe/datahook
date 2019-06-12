@@ -1,0 +1,8 @@
+{
+  "name": "resource-piper",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/space-fe/resource-piper.git",
+  "author": "Xiaocong Dong <15652914852@163.com>",
+  "license": "MIT"
+}
